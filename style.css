@@ -3,10 +3,7 @@ h1 {
 }  
         
 body {
-  background-image: url("myBackground.png");
-  background-position: bottom right;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #fef3dc;
 }
            
 #navtable {
