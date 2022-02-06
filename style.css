@@ -4,6 +4,8 @@ h1 {
         
 body {
   background-image: url("myBackground.png");
+  background-position: right;
+  background-repeat: no-repeat;
 }
            
 #navtable {
