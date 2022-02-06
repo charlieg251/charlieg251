@@ -10,6 +10,7 @@ body {
            
 #navtable {
   width: 800px;
+  float: center;
 }
 
 #navtd {width: 200px; text-align: center;}
