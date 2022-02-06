@@ -18,7 +18,9 @@ body {
 #navtd {width: 200px; text-align: center;}
 
 #banner {
-  float: center;}
+  margin-left: auto;
+  margin-right: auto
+}
 
 #bodydiv{
   width: 800px;
