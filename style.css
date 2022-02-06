@@ -4,6 +4,10 @@ h1 {
         
 body {
   background-image: url("myBackground.png");
-  background-size: cover;
 }
            
+#navtable {
+  width: 800px;
+}
+
+#navtd {width: 200px; text-align: center;}
