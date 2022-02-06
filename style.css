@@ -11,7 +11,8 @@ body {
            
 #navtable {
   width: 800px;
-  float: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #navtd {width: 200px; text-align: center;}
@@ -21,5 +22,6 @@ body {
 
 #bodydiv{
   width: 800px;
-  float: center;
+  margin-left: auto;
+  margin-right: auto;
 }
