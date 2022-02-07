@@ -10,6 +10,7 @@ body {
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 50px;
 }
 
 #navtd {width: 200px; text-align: center;}
@@ -17,10 +18,33 @@ body {
 #banner {
   margin-left: auto;
   margin-right: auto;
+margin-bottom: 50px;
 }
 
 #bodydiv{
   width: 800px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#bothercat{
+  float: right;
+  width: 248px;
+  height: 348px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+#idpicture{
+  float: right;
+  width: 248px;
+  height: 348px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  clear: both;
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
 }
