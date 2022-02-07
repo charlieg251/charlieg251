@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
   color: #DB7093;
 }  
@@ -47,4 +48,56 @@ margin-bottom: 50px;
 p {
   font-size: 20px;
   font-family: sans-serif;
+  color: #ffffff;
+=======
+h1 {
+  color: #DB7093;
+}  
+        
+body {
+  background-color: #fef3dc;
+}
+           
+#navtable {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+#navtd {width: 200px; text-align: center;}
+
+#banner {
+  margin-left: auto;
+  margin-right: auto;
+margin-bottom: 50px;
+}
+
+#bodydiv{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#bothercat{
+  float: right;
+  width: 248px;
+  height: 348px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+
+#idpicture{
+  float: right;
+  width: 248px;
+  height: 348px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  clear: both;
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+>>>>>>> c46c6650e126d30101e86b2caf22f0222016a3d9
 }
